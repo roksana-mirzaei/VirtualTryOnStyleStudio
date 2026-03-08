@@ -19,7 +19,6 @@ tryon/ll
 checkpoints/
 *.pth
 *.safetensors
-*.png
 *.jpg
 *.log
 *.pyc

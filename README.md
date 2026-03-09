@@ -1,3 +1,9 @@
+# Collaborators
+
+- [Gbenga Ailesanmi](https://github.com/gbengailesanmi)
+- [ParadoxVII](https://github.com/ParadoxVII)
+- [Soujanya Joshi](https://github.com/SoujanyaJoshi24)
+- [Roksana Mirzaei](https://github.com/roksana-mirzaei)
 # Virtual Try-On Style Studio
 
 This repository contains a virtual try-on project developed as part of a group learning. The code and models provided are intended strictly for educational and experimental use only. **This project is not intended for commercial applications or production environments.**

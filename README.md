@@ -1,17 +1,6 @@
----
-title: Vton
-emoji: ⚡
-colorFrom: green
-colorTo: purple
-sdk: docker
-pinned: false
----
-
-
-
 # Virtual Try-On Style Studio
 
-This repository contains a virtual try-on project developed as part of a group learning and research initiative. The code and models provided are intended strictly for educational and experimental use only. **This project is not intended for commercial applications or production environments.**
+This repository contains a virtual try-on project developed as part of a group learning. The code and models provided are intended strictly for educational and experimental use only. **This project is not intended for commercial applications or production environments.**
 
 ## Background
 
@@ -39,5 +28,3 @@ Project documentation: [https://roksana-mirzaei.github.io/2026/01/23/VirtualTryO
 
 * You need an NVIDIA GPU (see requirements in the repo).
 * Build and deploy the Docker image, or deploy on Hugging Face Spaces with an NVIDIA machine.
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
